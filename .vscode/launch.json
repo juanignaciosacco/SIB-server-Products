@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<sibserver.prodcuts>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.juanignacio.sibserver.products.Application",
+            "projectName": "sibserver.prodcuts",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
